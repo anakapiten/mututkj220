@@ -1,0 +1,54 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  position: absolute;
+  width: 480px;
+  height: 100vh;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+
+.sekolah {
+  position: absolute;
+  top: 5%;
+  width: 93%;
+  height: 24%;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+
+.sekolah .swiper {
+  border-radius: 10px;
+}
+
+.sekolah img {
+  position: relative;
+  width: 100%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.meet1 {
+  position: absolute;
+  top: 50%;
+  width: 93%;
+  height: 24%;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+
+.meet1 .swiper {
+  border-radius: 10px;
+}
+
+.meet1 img {
+  position: relative;
+  width: 100%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
